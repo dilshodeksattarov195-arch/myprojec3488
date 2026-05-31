@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercarse",
+        "uuid": 2961312,
+        "checksum": "fqxdbt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
